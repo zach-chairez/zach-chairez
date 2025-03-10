@@ -2,7 +2,9 @@
 
 My name is Zach, a Ph.D. in Mathematics that uses his experience and skills to dive deeper into data science and interactive ways to teach *seemingly scary* math subjects to all! 
 
-- 🔭 I’m currently working on translating my Ph.D. work in MATLAB to Python to highlight my contributions in an open source setting!
+- 🔭 I’m currently working on:
+    - translating my Ph.D. work in MATLAB to Python to highlight my contributions in an open source setting.
+    - building real world ML projects in my ML repository.
 - 🌱 I’m currently learning how to build visualization applets with Streamlit to visualize concepts in Linear Algebra like matrix-vector multiplication and determinants!
 - 📫 How to reach me: zach.chairez@gmail.com
 
