@@ -9,7 +9,7 @@ My name is Zach, a Ph.D. in Mathematics that uses his experience and skills to d
     - **ML**:  My personal data science projects which include predictive modeling and computer vision problems.
     - **PhD-Work**:  MATLAB and Python code for feature selection models I developed during my Ph.D.
     - **linear-algebra**:  Visualization applets for linear algebra concepts.
-    - **Project-Euler**:  This is a fun one where I attack challenging mathematical problems in Python from [projecteuler.com](https://projecteuler.net/).
+    - **Project-Euler**:  This is a fun one where I attack challenging mathematical problems in Python from [Project Euler](https://projecteuler.net/).
 
 <!--
 **zach-chairez/zach-chairez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
