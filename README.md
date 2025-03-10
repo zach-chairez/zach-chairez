@@ -1,6 +1,6 @@
 ## Welcome to my playground! 👋
 
-My name is Zach, a Ph.D. in Mathematics that uses his experience and skills to dive deeper into data science and interactive ways to teach *scary* math subjects! 
+My name is Zach, a Ph.D. in Mathematics that uses his experience and skills to dive deeper into data science and interactive ways to teach *seemingly scary* math subjects! 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
